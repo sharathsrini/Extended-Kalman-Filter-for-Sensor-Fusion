@@ -35,7 +35,7 @@ In this project I have utilized an Extended Kalman Filter algorithm to estimate 
 
 The following graph compares real and estimated values for car coordinates using data from Dataset 1
 
-![alt text][EKF]
+![alt text][image1]
 
 ## RMSE
 
